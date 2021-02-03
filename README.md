@@ -3,5 +3,5 @@ Creating a sign up form for a organization @connecting_psychologically with back
 
 Also linked Mail Chimp Data Base to store the Data of users.
 
-CheckOut at : https://infinite-headland-57388.herokuapp.com/
+CheckOut and SignUp : https://infinite-headland-57388.herokuapp.com/
 
